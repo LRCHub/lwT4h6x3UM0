@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "幸せになれる隠しコマンドがあるらしい",
+  "base_artist": "うたたP",
+  "createdAt": "2026-03-19T12:50:28.792044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幸せになれる隠しコマンドがあるらしい",
+      "artist": "うたたP",
+      "has_synced": true,
+      "path": "select/01_幸せになれる隠しコマンドがあるらしい_うたたP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幸せになれる隠しコマンドがあるらしい",
+      "artist": "UtataP",
+      "has_synced": true,
+      "path": "select/02_幸せになれる隠しコマンドがあるらしい_UtataP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幸せになれる隠しコマンドがあるらしい",
+      "artist": "Utata-P",
+      "has_synced": true,
+      "path": "select/03_幸せになれる隠しコマンドがあるらしい_Utata-P.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幸せになれる隠しコマンドがあるらしい",
+      "artist": "うたたＰ feat. 結月ゆかり",
+      "has_synced": true,
+      "path": "select/04_幸せになれる隠しコマンドがあるらしい_うたたP_feat._結月ゆかり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "幸せになれる隠しコマンドがあるらしい",
+      "artist": "松下",
+      "has_synced": true,
+      "path": "select/05_幸せになれる隠しコマンドがあるらしい_松下.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "幸せになれる隠しコマンドがあるらしい",
+      "artist": "ちぃむｄｍｐ☆",
+      "has_synced": true,
+      "path": "select/06_幸せになれる隠しコマンドがあるらしい_ちぃむdmp☆.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "幸せになれる隠しコマンドがあるらしい",
+      "artist": "うたたP/結月ゆかり",
+      "has_synced": true,
+      "path": "select/07_幸せになれる隠しコマンドがあるらしい_うたたP_結月ゆかり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せになれる隠しコマンドがあるらしい",
+      "artist": "うたたP",
+      "has_synced": false,
+      "path": "select/pl_01_幸せになれる隠しコマンドがあるらしい_うたたP.txt"
+    }
+  ]
+}
